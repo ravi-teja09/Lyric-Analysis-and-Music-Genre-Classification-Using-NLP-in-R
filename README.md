@@ -14,11 +14,11 @@ R, Jupyter notebook
 dplyr, ggplot2, tidytext, topicmodels (LDA algorithm), tm (document-term-matrix)
 
 ### Results
-* Lyric Analysis
+* Lyric Analysis:
 
 ![](https://github.com/ravi-teja-sunkara/Lyric-Analysis-and-Music-Genre-Classification-Using-NLP-in-R/blob/master/Images/Picture1.png)
 ![](https://github.com/ravi-teja-sunkara/Lyric-Analysis-and-Music-Genre-Classification-Using-NLP-in-R/blob/master/Images/Picture2.png)
 
-* Latent Dirichlet Allocation
+* Latent Dirichlet Allocation Output:
 
 ![](https://github.com/ravi-teja-sunkara/Lyric-Analysis-and-Music-Genre-Classification-Using-NLP-in-R/blob/master/Images/lda.png)
